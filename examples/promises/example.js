@@ -16,7 +16,6 @@
 "use strict";
 
 import { connect } from "ari-client";
-import Promise from "bluebird";
 import { format } from "util";
 
 // replace ari.js with your Asterisk instance
